@@ -101,12 +101,5 @@ The common quadratic stability analyses use:
 
 Additional MATLAB toolbox and optimization requirements are specified by the corresponding scripts.
 
-## Authors
 
-Sina Hosseini  
-Fariba Bahrami  
-Mohammad Javad Yazdanpanah  
-Abolfazl Yaghmaei
-
-School of Electrical and Computer Engineering, University of Tehran, Tehran, Iran
 
